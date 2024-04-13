@@ -47,3 +47,4 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 If you are unsure whether an incident is a violation, or whether the space where the incident took place is covered by our Code of Conduct, **we encourage you to still report it**. We would prefer to have a few extra reports where we decide to take no action, than to leave an incident go unnoticed and unresolved that may result in an individual or group to feel like they can no longer participate in the community. Reports deemed as not a violation will also allow us to improve our Code of Conduct and processes surrounding it. If you witness a dangerous situation or someone in distress, we encourage you to report even if you are only an observer.
 
 ## Attribution
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), [version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
